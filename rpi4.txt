@@ -1,0 +1,7 @@
+install pi apps:- 
+  wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
+
+board link:-
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
