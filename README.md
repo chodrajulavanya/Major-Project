@@ -44,9 +44,6 @@ Copy code
 - You can customize the object detection parameters and visualization settings directly in the script.
 - Make sure to handle exceptions and errors gracefully, especially when dealing with network requests or camera stream issues.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
