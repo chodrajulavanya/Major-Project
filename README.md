@@ -11,23 +11,27 @@ This Python script demonstrates real-time object detection using the MediaPipe f
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 
+ ```bash
 git clone https://github.com/your_username/realtime-object-detection.git
 cd realtime-object-detection
+```
 
+2. **Install the required dependencies:**
 
-2. Install the required dependencies:
-
+ ```bash
 pip install -r requirements.txt
-
+```
 
 ## Usage
 
 1. Modify the `url` variable in the script to point to your IP camera stream.
 2. Run the script:
 
+ ```bash
 python realtime_object_detection.py
+```
 
 less
 Copy code
@@ -54,6 +58,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! Please feel free to open an issue or submit a pull request for any improvements or feature additions.
 
-## Contact
-
-For any questions or inquiries, please contact [your_email@example.com].
